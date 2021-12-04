@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dataKT-noah!
+- 👀 I’m interested in data science for economic behavior.
+- 🌱 I’m currently learning Machine Learning.
+- 💞️ I’m looking to collaborate on studing fundamental data science/
+- 📫 How to reach me is kaggle/
